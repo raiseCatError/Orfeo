@@ -1,3 +1,4 @@
+# Fork only: comment added to register this workflow on raiseCatError/Orfeo
 # Publishes one Orfeo version as a GitHub release.
 #
 # Start it by hand: GitHub → Actions → Release → Run workflow (branch: main),
